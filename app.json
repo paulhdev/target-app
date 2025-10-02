@@ -5,7 +5,7 @@
     "scheme": "target",
     "version": "1.0.0",
     "android": {
-      "package": "com.arthurrios.target",
+      "package": "com.paulhdev.target",
       "edgeToEdgeEnabled": true,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
@@ -13,12 +13,9 @@
       }
     },
     "ios": {
-      "bundleIdentifier": "com.arthurrios.target",
+      "bundleIdentifier": "com.paulhdev.target",
       "icon": "./assets/ios-icon.png"
     },
-    "plugins": [
-      "expo-router",
-      "expo-font"
-    ]
+    "plugins": ["expo-router", "expo-font", "expo-sqlite"]
   }
 }

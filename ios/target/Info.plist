@@ -28,7 +28,7 @@
         <key>CFBundleURLSchemes</key>
         <array>
           <string>target</string>
-          <string>com.arthurrios.target</string>
+          <string>com.paulhdev.target</string>
         </array>
       </dict>
     </array>

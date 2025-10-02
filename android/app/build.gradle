@@ -87,9 +87,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace 'com.arthurrios.target'
+    namespace 'com.paulhdev.target'
     defaultConfig {
-        applicationId 'com.arthurrios.target'
+        applicationId 'com.paulhdev.target'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
